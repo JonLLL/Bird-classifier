@@ -11,7 +11,7 @@ The **CUB_200_2011** (Caltech-UCSD Birds) dataset is a widely used benchmark in 
 - Part location annotations
 - Bounding boxes
 
-📥 You can access the dataset from [Kaggle]([https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images]).
+📥 You can access the dataset from [Kaggle](https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images).
 
 ## MobileNetV2 
 My choice for using MobileNetV2 is due to its balance of efficiency and performance. Since the model is lightweight, it is well-suited for deployment on mobile devices, making it an ideal choice for applications where computational resources are limited. Additionally, MobileNetV2's streamlined architecture reduces memory usage and inference time, ensuring faster and more responsive applications. This scalability makes it particularly advantageous for integrating AI-powered features into mobile apps, providing users with seamless and real-time experiences.<br>
@@ -26,3 +26,5 @@ Additionally, loss, validation accuracy and training accuracy were used to monit
 ## Results
 - **Final Model Accuracy:** 95.15%
 - **Loss:** 0.4066
+
+  
