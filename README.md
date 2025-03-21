@@ -2,7 +2,7 @@
 A fine-tuned MobileNetV2 model achieving **95% accuracy** on the CUB_200_2011 bird species dataset.
 
 ## Overview
-This project involves fine-tuning the MobileNetV2 convolutional neural network on the **CUB_200_2011** dataset for bird species classification. After training, the model achieves an impressive accuracy of **95%**.<br>
+This project involves fine-tuning the MobileNetV2 convolutional neural network on the **CUB_200_2011** dataset for bird species classification. After training, the model achieves an impressive accuracy of **95%**.<br><br>
 **Note**: The training was performed in two environments due to limite resources <br>
  Initial experiments on a local machine to validate the approach, followed by further fine-tuning using the computational resources available on Google Colab.
 
