@@ -10,7 +10,7 @@ This project involves fine-tuning the MobileNetV2 convolutional neural network o
 - smodel_r2.pth - intermediate training weights <br>
 - best_smodel_r2.pth - final weights after fine tuning <br>
 
-- 200_birdclassifier_small.ipynb - training done on personal laptop CPU <br>
+- 200_birdclassifier_small.ipynb - training done on local machine CPU <br>
 - 200_birdclassifier_v2.ipynb - final training done on goolge colab on T4 GPU <br>
 
 
